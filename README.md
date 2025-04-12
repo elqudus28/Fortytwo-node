@@ -33,4 +33,5 @@ chmod +x linux.sh && ./linux.sh
 * Copy your passphrase and store it somewhere safe
 * Follow the on-screen instructions to complete the setup
 
+* fill form if you're yet to fill it: https://tally.so/r/wQzVQk
   Join Forty node DISCORD: https://discord.gg/8cx8YjmKdr
